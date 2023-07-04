@@ -1,7 +1,11 @@
 # Fly-Super8Pro
 Fly-Super8Pro details
 
-The board can be purchased from here https://www.aliexpress.com/item/1005004431621335.html
+<a href=https://s.click.aliexpress.com/e/_Dndd37L target="_blank"><img src=//ae01.alicdn.com/kf/S18af3fdec6db41a6a7b99e6d9491a4b5Y.jpg_140x140.jpg" /></a>
+[https://s.click.aliexpress.com/e/_DCvQ4Yt](https://s.click.aliexpress.com/e/_Dndd37L)
+This link is affiliated URL. If you purchase via link above it will give tiny cent of commission to the community organizers.
+(We are not Mellow employees, just 3D printer enthusiasts)
+This will not hurt your wallet and at the same time help us to maintain the GitHub better.
 
 For further information regarding RRF, see here https://teamgloomy.github.io/fly_super8pro_general.html
 
